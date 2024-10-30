@@ -1,49 +1,36 @@
-<p align="center"><img src="https://media.tenor.com/images/49e8bbc5b4245a62076c898a713e8a28/tenor.gif" width="150" style="margin-right:100" />                    </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, Nice to see you.</h1>
-<h3 align="center">I'm Pratham, Student @ VESIT.</h3>
+<h1>👋 Hello! I'm Pratham Matkar<img align="right" src="https://komarev.com/ghpvc/?username=prathamm2506&color=blue&style=flat&label=Profile+views"></h1>
 
-Quick learner & Active IT Enthusiast with a passion for transforming complex technical challenges into streamlined solutions. Strong analytical skills and a knack for problem-solving. Excellent communicator & a team player dedicated to achieving both individual & organizational goals.
+<p>VESIT '26 | Ex Web Dev Intern @ Rhyno EV | Jr. Web Editor @ IEEE - VESIT | Ex R & D Intern @ Indrones | GPM '23</p>
 
-[![](https://visitcount.itsvg.in/api?id=prathamm2506&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2>🚀 Skills:</h2>
+<pre>
+Programming - Python, C/C++, Java, Lua, Tailwind, JavaScript, PHP
+Database - Firebase, MySQL.
+Frameworks/Tools - React JS, Node JS, Git/Github, Power BI, BitBucket, MATLAB.
+Certification - MATLAB certification for Data Processing & Visualization, Great Learning certificate for Data
+Science Foundations.
+</pre>
 
- 
-### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/pratham-matkar-a2bb77257/" target="__blank"><img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" href="https://www.linkedin.com/in/pratham-matkar-a2bb77257/" /></a>
-</p>
-<br>
- 
- 
-### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:5px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:5px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:5px;" />
-<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" style="padding:5px;"/>
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:5px;" />
-<img align="left" alt="Lua" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" style="padding:5px;"/>
-<img align="left" alt="Tailwind" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" style="padding:5px;"/>
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:5px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:5px;" />
-<img align="left" alt="Arduino" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" style="padding:5px;"/>
-<img align="left" alt="Bitbucket" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bitbucket/bitbucket-original.svg" style="padding:5px;"/>
-<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" style="padding:5px;"/>
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" style="padding:5px;"/>
-<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" style="padding:5px;"/>
-<img align="left" alt="Canva" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" style="padding:5px;"/>
-<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" style="padding:5px;"/>
-<img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" style="padding:5px;"/>
-<img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" style="padding:5px;"/>
+<h2>🎓 Education:</h2>
+<p>Bachelor of Engineering in Artificial Intelligence & Data Science (2023 - 2026)<br>
+Diploma of Engineering in Information Technology (2021 - 2023)</p>
 
+<h2>🌐 Portfolio:</h2>
+<p>Explore my <a href="https://portfolio-site-eight-black.vercel.app/">Portfolio</a> to discover my collection of projects.</p>
 
+<h2>🛠️ Projects:</h2>
+<pre>
+Dobot_Magician - Embedded C, Python.
+Droneairgear Website - ReactJS, Firebase, Tailwind.
+E-Commerce_Webscrapper - Python, Jupyter Notebook.
+Stock Prediction - Python, Jupyter Notebook.
+Lung_Cancer_Detection - Python, Jupyter Notebook.
+TrendWiz - ReactJS, Python, Jupyter Notebook, Tailwind, GPT-2, Ngrok, Huggingface.
+</pre>
 
+<h2>🔗 Connect with me:</h2>
+<p><a href="https://www.linkedin.com/in/pratham-matkar-a2bb77257/">LinkedIn</a><br/>
+<a href="https://www.instagram.com/pratham_2506_/">Instagram</a><br/>
+<a href="https://portfolio-site-eight-black.vercel.app/">Portfolio</a></p>
 
-
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathamm2506&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/pratham2506)
-
-<h3>Github Stats</h3>
-<a href="https://github-readme-stats.vercel.app/api?username=prathamm2506&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" target="_blank"><img alt="Github Stats 1" src="https://github-readme-stats.vercel.app/api?username=prathamm2506&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" /></a>
-<br />
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=prathamm2506&theme=vue-dark&hide_border=true" target="_blank"><img alt="Github Stats 2" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamm2506&theme=vue-dark&hide_border=true" /></a>
-<br />
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamm2506&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" target="_blank"><img alt="Github Stats 3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamm2506&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
+<p>Let's connect and innovate! 🚀</p>
