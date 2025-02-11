@@ -16,7 +16,7 @@ Science Foundations.
 Diploma of Engineering in Information Technology (2021 - 2023)</p>
 
 <h2>🌐 Portfolio:</h2>
-<p>Explore my <a href="https://portfolio-site-eight-black.vercel.app/">Portfolio</a> to discover my collection of projects.</p>
+<p>Explore my <a href="https://new-portfolio-five-sigma.vercel.app/">Portfolio</a> to discover my collection of projects.</p>
 
 <h2>🛠️ Projects:</h2>
 <pre>
@@ -31,6 +31,6 @@ TrendWiz - ReactJS, Python, Jupyter Notebook, Tailwind, GPT-2, Ngrok, Huggingfac
 <h2>🔗 Connect with me:</h2>
 <p><a href="https://www.linkedin.com/in/pratham-matkar-a2bb77257/">LinkedIn</a><br/>
 <a href="https://www.instagram.com/pratham_2506_/">Instagram</a><br/>
-<a href="https://portfolio-site-eight-black.vercel.app/">Portfolio</a></p>
+<a href="https://new-portfolio-five-sigma.vercel.app/">Portfolio</a></p>
 
 <p>Let's connect and innovate! 🚀</p>
