@@ -1,6 +1,6 @@
 <h1>👋 Hello! I'm Pratham Matkar<img align="right" src="https://komarev.com/ghpvc/?username=prathamm2506&color=blue&style=flat&label=Profile+views"></h1>
 
-<p>VESIT '26 | Ex Web Dev Intern @ Rhyno EV | Jr. Web Editor @ IEEE - VESIT | Ex R & D Intern @ Indrones | GPM '23</p>
+<p>VESIT '26 | Ex Web Dev Intern @ Rhyno EV | Sr. Web Editor @ IEEE - VESIT | Ex R & D Intern @ Indrones | GPM '23</p>
 
 <h2>🚀 Skills:</h2>
 <pre>
