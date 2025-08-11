@@ -16,7 +16,7 @@ Science Foundations.
 Diploma of Engineering in Information Technology (2021 - 2023)</p>
 
 <h2>🌐 Portfolio:</h2>
-<p>Explore my <a href="https://new-portfolio-five-sigma.vercel.app/">Portfolio</a> to discover my collection of projects.</p>
+<p>Explore my <a href="https://prathammatkar.vercel.app/">Portfolio</a> to discover my collection of projects.</p>
 
 <h2>🛠️ Projects:</h2>
 <pre>
